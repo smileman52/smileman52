@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">sussybaka what are you doing here, smileman52</h1>
+<h3 align="center">🗿🗿🗿 stone</h3>
 
-<!--
-**smileman52/smileman52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **your mom**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **html, javascript, python, css**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 I’m looking for help with **finding my dad with the milk**
+
+- 👨‍💻 All of my projects are available at [youtube.com](youtube.com)
+
+- 📝 I regularly write articles on [youtube.com](youtube.com)
+
+- 💬 Ask me about **how to play among us**
+
+- 📫 How to reach me **yomamais@amoungus.com**
+
+- 📄 Know about my experiences [youtube.com](youtube.com)
+
+- ⚡ Fun fact **stfu**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
