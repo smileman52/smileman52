@@ -1,24 +1,36 @@
-<h1 align="center">sussybaka what are you doing here, smileman52</h1>
-<h3 align="center">🗿🗿🗿 stone</h3>
+<h1 align="center">Hi, smileman52 here</h1>
 
-- 🔭 I’m currently working on **your mom**
+###
 
-- 🌱 I’m currently learning **html, javascript, python, css**
+<h2 align="center">i code</h2>
 
-- 🤝 I’m looking for help with **finding my dad with the milk**
+###
 
-- 👨‍💻 All of my projects are available at [youtube.com](youtube.com)
+<h3 align="center">I make fun stuff</h3>
 
-- 📝 I regularly write articles on [youtube.com](youtube.com)
+###
 
-- 💬 Ask me about **how to play among us**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" alt="css3 logo"  />
+</div>
 
-- 📫 How to reach me **yomamais@amoungus.com**
+###
 
-- 📄 Know about my experiences [youtube.com](youtube.com)
+<img href="https://raw.githubusercontent.com/smileman52/smileman52/blob/output/snake.svg" alt="Snake animation" />
 
-- ⚡ Fun fact **stfu**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/smileman52/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=smileman52" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=smileman52" height="150" alt="languages graph"  />
+</div>
+
+###
