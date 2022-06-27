@@ -1,14 +1,3 @@
-<h1 align="center">Hi, smileman52 here</h1>
-
-###
-
-<h2 align="center">i code</h2>
-
-###
-
-<h3 align="center">I make fun stuff</h3>
-
-###
 
 ![Header](./github-header-image.png)
 
